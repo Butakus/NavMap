@@ -2,8 +2,8 @@
 Changelog for package navmap_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.0 (2026-07-25)
+------------------
 * Update version
 * Speedup the navcel location
 * Cleanup unused headers

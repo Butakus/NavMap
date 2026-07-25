@@ -2,8 +2,8 @@
 Changelog for package navmap_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.0 (2026-07-25)
+------------------
 * Fix test compilation error with rosidl::Buffer
 * PCL private linkage: avoid Qt5/6 conflicts
 * Fix doc in header

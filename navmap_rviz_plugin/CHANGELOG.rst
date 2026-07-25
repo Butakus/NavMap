@@ -2,8 +2,8 @@
 Changelog for package navmap_rviz_plugin
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.0 (2026-07-25)
+------------------
 * Fully commit to Qt6 only and cleanup CMake
 * Set Qt6 references and moc to proper plugin export
 * PCL private linkage: avoid Qt5/6 conflicts
